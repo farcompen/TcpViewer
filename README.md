@@ -6,5 +6,8 @@ Application get c&c server host ip adresses from blacklist_hosts.html from a web
 
 <p align="center">
   <img src="Adsız3.png" />
+  </br>
+  </br>
+   <img src="Adsız4.png" />
  
 </p>
