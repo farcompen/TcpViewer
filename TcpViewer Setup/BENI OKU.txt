@@ -1,0 +1,10 @@
+
+Author : Faruk GÜNGÖR
+
+@2017 
+*************************
+
+
+- - Kurulum yapýlacak cihazda .net framework 4.5 kurulu olmalýdýr 
+
+-- c :// 'nin altýna alert.ico 'yu atýnýz.. 
