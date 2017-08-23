@@ -1,10 +1,12 @@
 
-Author : Faruk G�NG�R
+Author : Faruk GÜNGÖR
 
 @2017 
 *************************
 
 
-- - Kurulum yap�lacak cihazda .net framework 4.5 kurulu olmal�d�r 
+# Kurulum yapılacak cihazda .net framework 4.5 kurulu olmalıdır 
 
--- c :// 'nin alt�na alert.ico 'yu at�n�z.. 
+# c :// 'nin altına alert.ico 'yu atınız.. 
+
+# setup dosyasını olduğu gibi eksiksiz indiriniz 
